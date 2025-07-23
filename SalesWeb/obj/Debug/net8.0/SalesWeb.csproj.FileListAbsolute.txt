@@ -258,3 +258,4 @@ C:\Users\victor.galvao\Desktop\SalesWeb\SalesWeb\bin\Debug\net8.0\runtimes\win-x
 C:\Users\victor.galvao\Desktop\SalesWeb\SalesWeb\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\victor.galvao\Desktop\SalesWeb\SalesWeb\bin\Debug\net8.0\MySqlConnector.dll
 C:\Users\victor.galvao\Desktop\SalesWeb\SalesWeb\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\victor.galvao\Desktop\SalesWeb\SalesWeb\obj\Debug\net8.0\SalesWeb.sourcelink.json

@@ -1,6 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using SalesWeb.Views.ViewModels;
+using SalesWeb.Models.ViewModels;
 
 namespace SalesWeb.Controllers
 {
